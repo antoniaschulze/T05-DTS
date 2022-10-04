@@ -1,0 +1,22 @@
+body{background-color: rosybrown;}
+
+#box {width: 1200px;
+padding: 30px;
+margin-left: 70px;
+float: center;
+background: ghostwhite;
+}
+
+#intro {width: 1135px;
+padding: 30px;
+float: center;
+background: grey;
+}
+
+h1 {width: 350px;
+background-color: rosybrown;
+padding: 10px;}
+
+img { width: 245px;
+height: 290px; }
+
